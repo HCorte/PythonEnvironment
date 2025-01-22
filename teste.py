@@ -1,9 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import matplotlib
+#import matplotlib
 
 # Use an interactive backend
-matplotlib.use('TkAgg')  # Replace 'TkAgg' with another backend if needed
+#matplotlib.use('TkAgg')  # Replace 'TkAgg' with another backend if needed
 
 data = {'Nome': ['Alice', 'Bob'], 'Idade': [25, 30]}
 df = pd.DataFrame(data)
