@@ -14,3 +14,4 @@ pytz==2024.2
 six==1.17.0
 tzdata==2025.1
 zipp==3.20.2
+#Alteração Exercício Aula IV
